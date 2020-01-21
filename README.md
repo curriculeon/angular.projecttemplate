@@ -1,4 +1,4 @@
-# Tour of Heroes
+# Project Title
 
 * **Objective** - to build an app that ...
 * **Purpose** - To gain familiarity with building angular applications
